@@ -1,5 +1,3 @@
----
-
 # Therestella Foundation Website
 
 ## Overview
@@ -84,5 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **TheRestella Foundation Team** for their dedication and vision.
 - **Open Source Community** for providing the tools and resources that made this project possible.
 - **Volunteers and Donors** who continue to support the foundation's mission.
-
----
